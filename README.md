@@ -6,8 +6,11 @@ berikut hasil dari program algoritma yang dibuat menggunakan bahasa pemrogramman
 
 ## Screenshots
 
-![App Screenshot](https://github.com/avalulabil/algoritma/blob/main/1.png)
-![App Screenshot](https://github.com/avalulabil/algoritma/blob/main/2.png)
-![App Screenshot](https://github.com/avalulabil/algoritma/blob/main/3.png)
-![App Screenshot](https://github.com/avalulabil/algoritma/blob/main/4.png)
+1. ![App Screenshot](https://github.com/avalulabil/algoritma/blob/main/1.png)
+&nbsp;
+2. ![App Screenshot](https://github.com/avalulabil/algoritma/blob/main/2.png)
+&nbsp;
+3. ![App Screenshot](https://github.com/avalulabil/algoritma/blob/main/3.png)
+&nbsp;
+4. ![App Screenshot](https://github.com/avalulabil/algoritma/blob/main/4.png)
 
